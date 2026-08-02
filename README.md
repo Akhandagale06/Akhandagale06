@@ -114,7 +114,7 @@ motto: "Code. Learn. Build. Repeat."
       <img src="https://img.shields.io/badge/🌐_Live_Demo-0078D4?style=for-the-badge&logoColor=white" alt="Live Demo"/>
     </a>
     &nbsp;
-    <a href="https://github.com/Akhandagale06/Smart-Salon-Queue-management-system-Frontend-/releases/download/v1.0.0/Smart.salon.Demo.mp4" target="_blank">
+    <a href="https://www.loom.com/share/77e4bfce965f4840b4ada1d8f4cee17f" target="_blank">
       <img src="https://img.shields.io/badge/🎥_Demo_Video-E53935?style=for-the-badge&logo=youtube&logoColor=white" alt="Demo Video"/>
     </a>
   </p>
