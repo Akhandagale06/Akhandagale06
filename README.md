@@ -92,27 +92,33 @@ motto: "Code. Learn. Build. Repeat."
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">💈 Smart Salon Queue & Multi-Chair Management System</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      </p>
-      <ul>
-        <li>Real-time scheduling system for online appointments and walk-in customers.</li>
-        <li>Intelligent Timeline Scheduler Engine for dynamic wait-time optimization.</li>
-        <li>Multi-tenant architecture with Customer, Salon Admin, and Super Admin portals.</li>
-        <li>Live notifications using Telegram & SMS integration.</li>
-      </ul>
-      <p align="center">
-        <a href="https://salon-queue-frontend.onrender.com" target="_blank">
-          <img src="https://img.shields.io/badge/🌐_Live_Demo-0078D4?style=for-the-badge&logoColor=white" alt="Live Demo"/>
-        </a>
-      </p>
-    </td>
+ <td width="50%" valign="top">
+  <h3 align="center">💈 Smart Salon Queue & Multi-Chair Management System</h3>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  </p>
+
+  <ul>
+    <li>Real-time scheduling system for online appointments and walk-in customers.</li>
+    <li>Intelligent Timeline Scheduler Engine for dynamic wait-time optimization.</li>
+    <li>Multi-tenant architecture with Customer, Salon Admin, and Super Admin portals.</li>
+    <li>Live notifications using Telegram & SMS integration.</li>
+  </ul>
+
+  <p align="center">
+    <a href="https://salon-queue-frontend.onrender.com" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_Live_Demo-0078D4?style=for-the-badge&logoColor=white" alt="Live Demo"/>
+    </a>
+    &nbsp;
+    <a href="https://github.com/Akhandagale06/Smart-Salon-Queue-management-system-Frontend-/releases/download/v1.0.0/Smart.salon.Demo.mp4" target="_blank">
+      <img src="https://img.shields.io/badge/🎥_Demo_Video-E53935?style=for-the-badge&logo=youtube&logoColor=white" alt="Demo Video"/>
+    </a>
+  </p>
+</td>
     <td width="50%" valign="top">
       <h3 align="center">📂 Full Stack File Sharing Application</h3>
       <p align="center">
