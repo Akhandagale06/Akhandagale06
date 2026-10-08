@@ -110,7 +110,7 @@ motto: "Code. Learn. Build. Repeat."
   </ul>
 
   <p align="center">
-    <a href="https://salon-queue-frontend.onrender.com" target="_blank">
+    <a href="https://smart-salon-customer-app.pages.dev" target="_blank">
       <img src="https://img.shields.io/badge/🌐_Live_Demo-0078D4?style=for-the-badge&logoColor=white" alt="Live Demo"/>
     </a>
     &nbsp;
